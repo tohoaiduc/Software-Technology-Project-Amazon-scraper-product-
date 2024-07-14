@@ -1,8 +1,22 @@
 # AmazonScraper
-AmazonScraper will scrape all the product details form web pages based on product url or ASIN
+AmazonScraper will scrape all the product details form web pages based on product ASIN
+
+Install Python or Python3 
+
+Install all lib that is necessary for the project 
+
+  pip install flask
+
+  pip install require
+
+  pip install crochet
+
+run test with 
+
+  python main.py
+
+, if get bug maybe you dont have enough lib in your computer, pls install all lib that project need.
 
 Run python main.py
   https://127.0.0.1:5000/
 
-![home](https://user-images.githubusercontent.com/48950721/117544971-5fb51d80-b041-11eb-8176-72d9e019ec06.png)
-![data](https://user-images.githubusercontent.com/48950721/117544986-72c7ed80-b041-11eb-8c37-9773b7098948.png)
